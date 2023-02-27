@@ -116,7 +116,7 @@ body {
 }
 
 .hero .content {
-  padding: 1.4rem 7%;
+  padding: 1.7rem 7%;
   max-width: 68rem;
 }
 
@@ -132,7 +132,7 @@ body {
 }
 
 .hero.content p {
-  font-size: 1.6rem;
+  font-size: 2rem;
   margin-top: 1rem;
   line-height: 1.4;
   font-weight: 100;
@@ -144,7 +144,7 @@ body {
   margin-top: 1rem;
   display: inline-block;
   padding: 1rem 3rem;
-  font-size: 1.4rem;
+  font-size: 1.7rem;
   color: #fff;
   background-color: var(--primary);
   border-radius: 0.5rem;
@@ -186,11 +186,11 @@ body {
 
 .about .row .content {
   flex: 1 1 35%;
-  padding: 0 1rem;
+  padding: 0 1.7rem;
 }
 
 .about .row .content h3 {
-  font-size: 1.8rem;
+  font-size: 1.7rem;
   margin-bottom: 1rem;
 }
 
@@ -211,7 +211,7 @@ body {
   text-align: center;
   max-width: 30rem;
   margin: auto;
-  font-size: 1rem;
+  font-size: 1.3rem;
   font-weight: 100;
   line-height: 1.6;
 }
@@ -392,11 +392,11 @@ footer .credit a {
   }
 
   .about .row .content p {
-    font-size: 1.6rem;
+    font-size: 1.3rem;
   }
 
   .menu p {
-    font-size: 1.2rem;
+    font-size: 1.4rem;
   }
 
   .contact .row {
